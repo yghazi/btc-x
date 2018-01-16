@@ -1,0 +1,32 @@
+{
+  "name": "btc-x",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yghazi/btc-x.git"
+  },
+  "keywords": [
+    "btc",
+    "eth"
+  ],
+  "author": "yumna ghazi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yghazi/btc-x/issues"
+  },
+  "homepage": "https://github.com/yghazi/btc-x#readme",
+  "dependencies": {
+    "bitcoin-core": "^2.0.0",
+    "bitcore-lib": "^0.15.0",
+    "express": "^4.16.2",
+    "http": "0.0.0",
+    "node-fetch": "^1.7.3",
+    "querystring": "^0.2.0",
+    "require": "^2.4.20"
+  }
+}
